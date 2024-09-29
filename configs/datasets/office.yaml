@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "Office"
+  SOURCE_DOMAINS: ['amazon', 'caltech', 'dslr', 'webcam']
+  num_class: 10
