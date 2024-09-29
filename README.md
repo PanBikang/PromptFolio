@@ -4,8 +4,6 @@ This repository contains the codebase for the paper: [NeurIPS 2024] **Federated 
 
 ## Installation
 
-Compared to previous work like PromptFL, we have implemented a Prompt portfolio aggregation strategy, leading to a revised class in `Dassl/dassl/engine/trainer.py`.
-
 ## Environment Settings
 
 ```bash
