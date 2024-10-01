@@ -1,6 +1,6 @@
 # PromptFolio
 
-This repository contains the codebase for the paper: [NeurIPS 2024] [**Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method**]((https://arxiv.org/abs/2409.19610)).
+This repository contains the codebase for the paper: [NeurIPS 2024] [**Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method**](https://arxiv.org/abs/2409.19610).
 
 ## Installation
 
